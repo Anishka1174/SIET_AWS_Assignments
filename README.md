@@ -4,7 +4,8 @@ Repo for SIET AWS Assignments
 # 1 ETC
 
 ## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-![Screenshot 2025-03-31 212133](https://github.com/user-attachments/assets/1c519f3a-7bd4-43fd-927a-45abdec00898)
+![Screenshot 2025-04-01 102813](https://github.com/user-attachments/assets/cb631de6-0cc9-49c9-81a8-bd433930bd18)
+
 
 
 
